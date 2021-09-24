@@ -3,7 +3,7 @@
 ## 使用的環境是python 3.6版本等相關套件
 
 
-</a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
+</a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>  <<他叫做selenium </a>
 
 這是一個瀏覽器自動化操作的工具 可用程式碼控制瀏覽器的運作以及擷取相關資訊  
 
