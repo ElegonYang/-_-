@@ -14,8 +14,8 @@
 **selenium.webdriver.chrome.options**  
 **selenium.webdriver.common.by**  
 
-**option**可以讓我們載入一些設定 比如說不會顯示視窗的"無頭模式"或是禁止顯示網頁內圖片的相關設定  
-**by**則是可以讓我們透過 xpath 或是 css選擇器對需要的資訊進行鎖定!  
+**option**// 可以讓我們載入一些設定 比如說不會顯示視窗的"無頭模式"或是禁止顯示網頁內圖片的相關設定  
+**by**//可透過 xpath 或是 css選擇器對需要的資訊進行鎖定!  
 
 20210922 update
 
