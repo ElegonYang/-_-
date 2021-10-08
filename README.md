@@ -20,3 +20,7 @@
 20210922 update
 
 selenium需要配合的是google chromedriver.exe 網路上搜尋即可找到!
+
+20211008 update
+
+全面改用class寫法 設置入口 讓可讀性upup!
