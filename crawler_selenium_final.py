@@ -15,6 +15,7 @@ class Selenium:
         driver = self._selenium_option()
         all_shop_links = self._get_all_shops_link(driver)
         self._res_page_return(driver, all_shop_links)
+        self.test_git()
 
     @staticmethod
     def _selenium_option():
@@ -148,6 +149,10 @@ class Selenium:
         with open('result.csv', 'a', encoding='utf-8', newline='') as file:
             writer = csv.writer(file)
             writer.writerow([res_name, level, tel, address, reviews])
+
+    @staticmethod
+    def test_git():
+        return "test git"
 
 
 go = Selenium()
